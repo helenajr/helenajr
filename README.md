@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m an NHS trainee clinical scientist in Health Informatics.
+- 🌱 I’m currently learning ... alot!
+- ⚡ Fun fact: Fuelled by coffee and dates
 <!--
 **helenajr/helenajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
