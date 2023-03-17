@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m an NHS trainee clinical scientist in Health Informatics.
+- 👩‍💻 I’m an NHS trainee clinical scientist in Health Informatics.
 - 🌱 I’m currently learning ... alot!
 - ⚡ Fun fact: Fuelled by coffee and dates
 <!--
