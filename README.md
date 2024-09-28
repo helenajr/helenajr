@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩‍💻 I’m an NHS trainee clinical scientist in Health Informatics.
+- 👩‍💻 I’m a registered Clinical Scientist in Health Informatics working in analytics and data science at Countess of Chester Hospital NHS FT.
 <!--
 **helenajr/helenajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
